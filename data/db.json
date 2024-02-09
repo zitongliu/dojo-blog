@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "welcome to the new blog",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "top 5 CSS tips",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "tags": [
+        "css",
+        "webdev",
+        "coding"
+      ]
+    },
+    {
+      "id": "f57d",
+      "title": "Hello World",
+      "body": "This is a test.",
+      "tags": [
+        "Vue"
+      ]
+    },
+    {
+      "id": "9102",
+      "title": "Another Post",
+      "body": "sadas dajsldjaslkdjalksd",
+      "tags": [
+        "html",
+        "css"
+      ]
+    },
+    {
+      "id": "cbd2",
+      "title": "A random Blog Post",
+      "body": "sadasd asdasdasdlj",
+      "tags": [
+        "hahah"
+      ]
+    }
+  ]
+}
